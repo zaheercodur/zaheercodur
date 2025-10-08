@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zaheercodur
+- 👋 Hi, I’m @Mohd Zaheer
 - 👀 I’m interested in Devlopment and web 3
 - 🌱 I’m currently learning Mern Stack & Web 3
 - 💞️ I’m looking to collaborate on ...
